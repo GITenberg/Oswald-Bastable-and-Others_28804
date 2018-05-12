@@ -1,0 +1,59 @@
+_repo: Oswald-Bastable-and-Others_28804
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Millar, H. R. (Harold Robert)
+    aliases:
+    - Millar, H.R.
+    - Millar, Harold Robert
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '7296'
+    url: http://www.gutenberg.org/2009/agents/7296
+  - agent_name: Brock, C. E. (Charles Edmund)
+    aliases:
+    - Brock, Charles Edmund
+    - Brock, Charles E. (Charles Edmund)
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '26815'
+    url: http://www.gutenberg.org/2009/agents/26815
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Bland, Edith Nesbit
+    - Nesbit, Edith
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: ''
+gutenberg_issued: '2009-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+- !lcc 'PR'
+tableOfContents: 'An object of value and virtue -- The runaways -- The arsenicators:
+  a tale of crime -- The enchanceried house -- Molly, the measles, and the missing
+  will -- Billy and William -- The twopenny spell -- Showing off; or, the looking-glass
+  boy -- The ring and the lamp -- The charmed life; or, the princess and the lift-man
+  -- Billy the King -- The princess and the cat -- The white horse -- Sir Christopher
+  Cockleshell -- Muscadel.'
+title: Oswald Bastable and Others
+url: http://www.gutenberg.org/ebooks/28804
